@@ -2,7 +2,7 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.0;
 
-contract MztacatCommunity {
+contract Properous009 {
     string public name = "Leash";
     string public symbol = "LSH";
     uint8 public decimals = 18;
