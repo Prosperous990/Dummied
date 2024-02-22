@@ -1,4 +1,4 @@
-# Dummy-Remix-Leash
+# Dummy Remix Leash
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.0;
 
